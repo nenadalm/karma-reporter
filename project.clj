@@ -1,4 +1,4 @@
-(defproject karma-reporter "1.0.1"
+(defproject org.clojars.nanadalm/karma-reporter "4.0.0-SNAPSHOT"
 
   :description "A plugin for running clojurescript tests with Karma."
 
